@@ -1,4 +1,4 @@
-import app from './src/app.js';
+import app from './app.js';
 const port = 3034;
 process.env.TZ = 'America/Campo_Grande';
 process.env.ORA_SDTZ = 'UTC';

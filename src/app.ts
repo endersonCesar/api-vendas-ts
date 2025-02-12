@@ -1,6 +1,6 @@
 import express from 'express';
 import cors from 'cors'
-import router from "../src/routes/index";
+import router from "./routes/index";
  const app = express();
  let corsOptions = {
 	origin: '*',
